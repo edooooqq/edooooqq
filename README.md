@@ -7,9 +7,37 @@ I'm a Computer science student from Italy with a strong interest in software eng
 - Designing web services and APIs
 - Data structures and algorithms
 - High-level development, from backend logic to the user interface
+- 
+## Tools & Tech
 
-## Tech stack
-[frameworks,tools,Python,javascript,typescript,Git]
+**Languages**
+- *General-purpose:* Python
+- *Web:* JavaScript
+- *Mobile:* Swift , Kotlin , Flutter
+- *Data and queries:* SQL
+
+**Frameworks and libraries**
+- *Backend:* FastAPI, Spring Boot, ASP.NET
+- *Frontend:* React, Next.js, Tailwind CSS
+- *Data/ML:* pandas, NumPy, PyTorch, TensorFlow
+
+**Databases**
+- *Relational:* PostgreSQL, MySQL, SQLite
+- *NoSQL:* MongoDB, Redis
+
+**Writing and managing code**
+- *Editors/IDEs:* VS Code, IntelliJ, PyCharm
+- *Version control:* Git, GitHub, GitLab
+- *Terminal:* Bash, Linux command line 
+
+**Building and deploying**
+- *Containers:* Docker, Kubernetes
+- *CI/CD:* GitHub Actions, Jenkins, GitLab CI
+- *Cloud:* AWS, Azure, Google Cloud
+- *Infrastructure as code:* Terraform
+
+**Teamwork and planning**
+- Jira or Trello for tasks, Slack or Teams for communication, Notion or Confluence for documentation, Figma for design handoff
 
 <!--
 **edooooqq/edooooqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
