@@ -25,7 +25,6 @@
 
 ## A Bit About me
 
-- *I have a cat*
 - *I'm learning german*
 - *I like watching series tv and movies*
 - *I like listening to music everywhere*
