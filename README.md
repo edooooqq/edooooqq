@@ -10,9 +10,8 @@ I'm a Computer science student from Italy with a strong interest in software eng
 ## Tools & Tech
 
 **Languages**
-- *General-purpose:* Python
-- *Web:* JavaScript
-- *Mobile:* Swift , Kotlin , Flutter
+- *General-purpose:* Python , Javascript
+- *Mobile:* Swift , Kotlin 
 - *Data and queries:* SQL
 
 **Frameworks and libraries**
@@ -21,8 +20,16 @@ I'm a Computer science student from Italy with a strong interest in software eng
 - *Data/ML:* pandas, NumPy, PyTorch, TensorFlow
 
 **Databases**
-- *Relational:* PostgreSQL, MySQL, SQLite
+- *Relational:* PostgreSQL, MySQL
 - *NoSQL:* MongoDB, Redis
+
+## A Bit About me
+
+- I have a cat
+- I'm learning german
+- I like watching series tv and movies
+- I like listening to music everywhere
+
 
 <!--
 **edooooqq/edooooqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
