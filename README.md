@@ -1,34 +1,34 @@
-# Hi, I'm Edoardo
+# *Hi, I'm Edoardo*
 
-I'm a Computer science student from Italy with a strong interest in software engineering.
+*I'm a Computer science student from Italy with a strong interest in software engineering.*
 
-## What I enjoy
-- Building apps and websites
-- Designing web services and APIs
-- Data structures and algorithms
-- High-level development, from backend logic to the user interface
-## Tools & Tech
+## *What I enjoy*
+- *Building apps and websites*
+- *Designing web services and APIs*
+- *Data structures and algorithms*
+- *High-level development, from backend logic to the user interface*
+## *Tools & Tech*
 
 **Languages**
-- *General-purpose:* Python , Javascript
-- *Mobile:* Swift , Kotlin 
-- *Data and queries:* SQL
+- *General-purpose: Python , Javascript*
+- *Mobile: Swift , Kotlin*
+- *Data and queries: SQL*
 
 **Frameworks and libraries**
-- *Backend:* FastAPI, Spring Boot, ASP.NET
-- *Frontend:* React, Next.js, Tailwind CSS
-- *Data/ML:* pandas, NumPy, PyTorch, TensorFlow
+- *Backend: FastAPI, Spring Boot, ASP.NET*
+- *Frontend: React, Next.js, Tailwind CSS*
+- *Data/ML: pandas, NumPy, PyTorch, TensorFlow*
 
 **Databases**
-- *Relational:* PostgreSQL, MySQL
-- *NoSQL:* MongoDB, Redis
+- *Relational: PostgreSQL, MySQL*
+- *NoSQL: MongoDB, Redis*
 
 ## A Bit About me
 
-- I have a cat
-- I'm learning german
-- I like watching series tv and movies
-- I like listening to music everywhere
+- *I have a cat*
+- *I'm learning german*
+- *I like watching series tv and movies*
+- *I like listening to music everywhere*
 
 
 <!--
