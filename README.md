@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Edoardo
+
+I'm a Computer science student from Italy with a strong interest in software engineering.
+
+## What I enjoy
+- Building apps and websites
+- Designing web services and APIs
+- Data structures and algorithms
+- High-level development, from backend logic to the user interface
+
+## Tech stack
+[frameworks,tools,Python,javascript,typescript,Git]
 
 <!--
 **edooooqq/edooooqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
